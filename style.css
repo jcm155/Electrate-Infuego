@@ -38,7 +38,7 @@ h1, h2, p {
 /* This is what controls that cool parallax scrolling effect. Change the image "feet.jpg" below to your image.*/
 /*You can always add more parlax assets on your web document, just follow the directions at the bottom of the index.html.*/
 .parallax-1 { 
-  background-image: url("purple_sky.jpg");
+  background-image: url("purple_sky.JPG");
 
   /* Set a specific height */
   height: 500px; 
